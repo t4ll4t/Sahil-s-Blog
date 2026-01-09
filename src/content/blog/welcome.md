@@ -1,29 +1,30 @@
 ---
-title: "Welcome to My Notes"
-description: "A brief introduction to this space"
-pubDate: 2024-01-15
-tags: ["intro", "meta"]
-category: "misc"
+title: "Welcome to Spirit Money Machine"
+description: "Why I started this blog and what you'll find here."
+pubDate: 2026-01-09
+tags: ["misc"]
 ---
 
-Welcome to my personal blog. This is a space where I share thoughts on **spirituality**, **finance**, **technology**, and occasional miscellany.
+Hi, I'm Sahil.
 
-## What to Expect
+This is my corner of the internet where I write about three things that occupy most of my thinking: spirituality, money, and technology.
 
-- **Spirituality**: Reflections on meaning, purpose, and inner growth
-- **Finance**: Thoughts on money, investing, and financial independence
-- **Tech**: Observations on software, systems, and the digital world
-- **Misc**: Everything else that doesn't fit neatly into categories
+## Why these three?
 
-I write for myself first, but if you find value here, you're welcome to stay.
+They might seem unrelated, but I've found they share a common thread: all three reward patience, discipline, and first-principles thinking.
 
-## Why This Format?
+**Spirituality** — I follow the path of Sant Mat (RSSB). The daily practice of meditation has taught me more about patience and consistency than anything else. I write about what I'm learning on this inner journey.
 
-I've chosen a minimalist design because I believe in:
-- **Clarity over decoration**
-- **Content over complexity**
-- **Reading over distraction**
+**Money** — I'm fascinated by investing, markets, and building wealth the right way. Not get-rich-quick schemes, but understanding how value actually compounds over time. Think Buffett and Dalio, not day trading.
 
-This blog is built with [Astro](https://astro.build) for speed and simplicity. No JavaScript frameworks, no tracking scripts—just words on a page.
+**Technology** — I build things. AI systems, automation workflows, and whatever else captures my attention. Tech is the machine that amplifies everything else.
 
-Thanks for reading.
+## What to expect
+
+Short essays. No fluff. I write to clarify my own thinking, and I share it in case it helps you too.
+
+New posts when I have something worth saying — not on a schedule.
+
+---
+
+*Thanks for reading. Feel free to reach out via the [contact page](/contact).*
